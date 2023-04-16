@@ -1,0 +1,28 @@
+.oll {
+background-color: #AF8C53;
+
+
+}
+li {
+text-decoration: none;
+    list-style-type: none;
+    
+}
+.main_title {
+
+display: flex;
+justify-content: flex-start;
+
+
+}
+.header {
+color: #000;
+margin-right: 50px;
+margin-left: 30px;
+
+}
+.kitchen_img{
+display: flex;
+justify-content: flex-end;
+
+}
