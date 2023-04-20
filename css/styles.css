@@ -26,3 +26,57 @@ display: flex;
 justify-content: flex-end;
 
 }
+.Properties_for_Sale {
+
+display: flex;
+justify-content: center;
+margin-bottom: 100px;
+font-family: 'Forum';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 30px;
+/* or 83% */
+
+text-align: center;
+letter-spacing: 0.4px;
+
+color: #252926;
+
+
+}
+hr {
+
+    color: #000;
+}
+
+.rooms {
+
+display: flex;
+justify-content: space-around;
+
+}
+.Rowhouse {
+
+    display: flex;
+    justify-content: center;
+    
+}
+.Condo {
+    display: flex;
+    justify-content: center;
+
+
+}
+.Single_family_home {
+    display: flex;
+    justify-content: center;
+
+
+}
+.img_hader {
+
+    display: flex;
+
+    height: 10vh;
+}
